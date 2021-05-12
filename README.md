@@ -1,4 +1,6 @@
-![Manager](docs/Manager.png)
+<div align="center"> 
+  <img src="docs/Manager.png">
+</div>
 <div> 
   <h1 align="center">Manager</h1>
   <p>

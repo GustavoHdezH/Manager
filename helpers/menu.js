@@ -23,15 +23,15 @@ const Menu = async() =>{
                 },
                 {
                     value: '3',
-                    name: `${`3.`.green} Tareas completadas`,
+                    name: `${`3.`.green} Tareas terminadas`,
                 },
                 {
                     value: '4',
-                    name: `${`4.`.green} Tareas pendientes`,
+                    name: `${`4.`.green} Tareas en curso`,
                 },
                 {
                     value: '5',
-                    name: `${`5.`.green} Completar tareas`,
+                    name: `${`5.`.green} Cambiar status a tareas`,
                 },
                 {
                     value: '6',

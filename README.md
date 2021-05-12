@@ -22,7 +22,7 @@ Para hacer uso de este proyecto es necesario clonarlo y seguir los siguientes pa
 git clone https://github.com/GustavoHdezH/Manager.git
 cd Manager
 npm install
-nmp run manager
+npm run manager
 ```
 ## Practica
 Para usar la apliación solo se requiere del teclado.
